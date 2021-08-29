@@ -1,6 +1,6 @@
 # Area-of-rectangle
 To find area of rectangle
-public class Rectangle
+public class AreaofRectangle
 {
   int width,height,area;
   area=width*height;
